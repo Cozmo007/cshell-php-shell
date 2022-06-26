@@ -21,8 +21,6 @@ body {
    background-color: black;
 }
 .sh{
-    // width: 980px;
-    // height: 700px;  
      background-color: black;
      border-radius: 10px;
      border-color: #bbb;
