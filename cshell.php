@@ -34,7 +34,7 @@ body {
  .cm {
      background-color: black;
      border-color: red;
-     color: blue;
+     color: #00BFFF;
  }
  .acao {
      background-color: black;
