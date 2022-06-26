@@ -1,6 +1,6 @@
 # Uso >
 
-<strong>Faça upload da shell em algum servidor(ou local) e abra ela, acesso a shell sera concedido...</strong>
+<strong>Faça upload da shell em algum servidor remoto ou local e abra ela, acesso a shell sera concedido...</strong>
 
 <i>Demonstração</i>
 
